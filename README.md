@@ -1,6 +1,6 @@
 # npmtest-osa
 
-#### test coverage for  [osa (v2.5.0)](https://github.com/brandonhorst/node-osa)  [![npm package](https://img.shields.io/npm/v/npmtest-osa.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-osa) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-osa.svg)](https://travis-ci.org/npmtest/node-npmtest-osa)
+#### basic test coverage for  [osa (v2.5.0)](https://github.com/brandonhorst/node-osa)  [![npm package](https://img.shields.io/npm/v/npmtest-osa.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-osa) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-osa.svg)](https://travis-ci.org/npmtest/node-npmtest-osa)
 
 #### node.js module for interfacing with OSX 10.10 Javascript OSA Scripting
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-osa/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-osa/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-osa/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-osa/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-osa/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-osa/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-osa/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-osa/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-osa/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-osa/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-osa/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-osa/build/coverage.html/index.html)
 
@@ -85,7 +85,8 @@
         "lint": "semistandard",
         "test": "mocha test"
     },
-    "version": "2.5.0"
+    "version": "2.5.0",
+    "bin": {}
 }
 ```
 

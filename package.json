@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [osa (v2.5.0)](https://github.com/brandonhorst/node-osa)  [![npm package](https://img.shields.io/npm/v/npmtest-osa.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-osa) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-osa.svg)](https://travis-ci.org/npmtest/node-npmtest-osa)",
+    "description": "#### basic test coverage for  [osa (v2.5.0)](https://github.com/brandonhorst/node-osa)  [![npm package](https://img.shields.io/npm/v/npmtest-osa.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-osa) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-osa.svg)](https://travis-ci.org/npmtest/node-npmtest-osa)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "osa": "*",
